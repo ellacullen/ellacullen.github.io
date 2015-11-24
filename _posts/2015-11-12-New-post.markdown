@@ -6,8 +6,15 @@ categories: jekyll update
 ---
 Hello, welcome to this weeks recipe.
 
- 
 
-![picture][img_01_01]
+[//]: # (This is how you make a comment in markdown. I can use this syntax to create nots for myself or anyone who reads the source code. This text will never appear on the website. It is only in this file.)
 
-[img_01_01]: https://github.com/ellacullen/ellacullen.github.io/assets/img_01_01.jpg
+[//]: # (Inline Style)
+![Ella's first image.]({{site.url}}/assets/img_01_01.jpg "All the ingredients.")
+
+[//]: # (Reference Style)
+![Ella's second image][im02] 
+
+
+[im02]: {{site.url}}/assets/img_01_02.jpg "Tossing the salad"
+
