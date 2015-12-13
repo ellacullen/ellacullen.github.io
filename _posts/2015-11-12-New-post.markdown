@@ -9,7 +9,7 @@ Hello, welcome to this weeks recipe.
 
 [//]: # (This is how you make a comment in markdown. I can use this syntax to create nots for myself or anyone who reads the source code. This text will never appear on the website. It is only in this file.)
 
-[//]: # (Inline Style)
+<!-- [//]: # (Inline Style)
 ![Ella's first image.]({{site.url}}/assets/img_01_01.jpg "All the ingredients.")
 
 [//]: # (Reference Style)
@@ -17,4 +17,4 @@ Hello, welcome to this weeks recipe.
 
 
 [im02]: {{site.url}}/assets/img_01_02.jpg "Tossing the salad"
-
+ -->
