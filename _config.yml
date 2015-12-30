@@ -9,9 +9,11 @@
 title: Ella's Cookbook
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my blog! I'm a big fan of cheap, healthy, tasty food, and I'll be posting new recipes each week. 
+  
+  All prices are in euros, and based on Tescos, although similar prices should be available in most shops.
+  Calories are estimates, based on my calculations.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
 # url: "http://ellacullen.github.io" # the base hostname & protocol for your site
