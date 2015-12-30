@@ -35,7 +35,7 @@ Ingredients:
 
   * white chocolate for topping (optional)
 
-  * tablespoons rum (optional)
+  * tablespoon rum (optional)
 
 Equipment:
 
