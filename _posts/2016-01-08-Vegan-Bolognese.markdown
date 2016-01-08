@@ -2,7 +2,7 @@
 layout: post
 title:  "Vegan Bolognese"
 excerpt:
-date:   2015-12-30 22:00:11 +0000
+date:   2016-01-08 22:00:11 +0000
 categories: recipes
 ---
 I love bolognese. My mum used to make it with so much veg that I didn't like it, because it wasn’t like the bolognese in my friend’s houses. Little did I realise that the reason it was different was because she made the sauce from scratch, and therefore it was much healthier. This recipe is even healthier and cheaper because there's no meat, although you can definitely add meat if you want.
