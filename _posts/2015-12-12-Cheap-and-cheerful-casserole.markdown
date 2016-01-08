@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Cheap and Cheerful Casserole!"
+excerpt:
 date:   2015-12-12 18:32:11 +0000
-categories: recipe
+categories: recipes
 ---
 
 This is a recent favourite. I found a similar recipe (by Jack Monroe, check out her amazing blog!) that made use of ham, mint and peas. However, I had no ham and a bunch of leftover roast chicken, so I decided to transform it a bit. I also snuck in extra veggies, as I find when I buy them, they’re always in a multipack and I really struggle to get through veg quickly. 
@@ -16,7 +17,7 @@ Cost: €3.56, €0.89 per serving
 Calories: 684 kcal, 171 kcal per serving
 
 [//]: # (Inline Style)
-![Ella's first image.]({{site.url}}/assets/img_01_01.jpg "All the ingredients.")
+![Ella's first image.]({{site.url}}/images/img_01_01.jpg "All the ingredients.")
 
 Ingredients: 
 
@@ -51,7 +52,7 @@ Equipment:
 Start by chopping up your onion, garlic, and celery. Break up your chicken with your fingers and place in a bowl. This is really good for leftover roast chicken, but you could also buy chicken breasts. Pop the onion, garlic, celery and chicken in a frying pan with some oil. If you prefer softer onion, fry it for 5 minutes before adding the other ingredients. 
 
 [//]: # (Inline Style)
-![Ella's first image.]({{site.url}}/assets/img_01_02.jpg "Chicken and celery.")
+![Ella's first image.]({{site.url}}/images/img_01_02.jpg "Chicken and celery.")
 
 Leave that frying while you make up 400-500ml chicken/veg stock. The volume of stock depends on how runny you’d like the casserole. I used 400ml, as I like a thick casserole. Pour the stock into a big pot and heat to a simmer. Chop up your mint and add to the pot. 
 
@@ -64,6 +65,6 @@ Take out half the potatoes and half the stock and add to a blender/food processo
 Add the contents of the frying pan to the pot and stir in. Add the kale and the peas, and cook for a further 10 minutes. Serve yourself a huge bowl of steaming hot, guilt-free deliciousness. 
 
 [//]: # (Inline Style)
-![Ella's first image.]({{site.url}}/assets/img_01_03.jpg "Finished!")
+![Ella's first image.]({{site.url}}/images/img_01_03.jpg "Finished!")
 
 
