@@ -16,7 +16,6 @@ Cost: €3.56, €0.89 per serving
 
 Calories: 684 kcal, 171 kcal per serving
 
-[//]: # (Inline Style)
 ![Ella's first image.]({{site.url}}/images/img_01_01.jpg "All the ingredients.")
 
 Ingredients: 

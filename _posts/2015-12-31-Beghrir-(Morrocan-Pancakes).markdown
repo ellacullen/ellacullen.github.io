@@ -48,8 +48,6 @@ Equipment:
 
 Start by putting your 700ml of lukewarm water (make sure it’s not too hot, or it will kill the yeast) and pour it into your blender. Add your sugar and yeast and leave for 5 minutes.
 
-![Picture 2]({{site.url}}/images/img_04_02.jpg "Yummy")
-
 Combine your flour, semolina, salt, and baking powder in a large mixing bowl or jug.
 
 ![Picture 3]({{site.url}}/images/img_04_03.jpg "Dry Ingredients") 
