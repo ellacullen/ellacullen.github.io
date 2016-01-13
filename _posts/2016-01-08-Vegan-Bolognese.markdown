@@ -20,35 +20,22 @@ Calories: 616 kcal, 102 per serving
 Ingredients:  
 
   * 1 tin kidney beans
-
   * 1 tin chopped tomatoes
-
   * 1 packet passata
-
   * 2 small courgettes
-
   * 2 teaspoons oregano
-
   * 1 large onion
-
   * 2 cloves of garlic
-
   * 1 beef or veg stock cube
-
   * 2 tablespoons tomato puree
-
   * dash of paprika
-
   * some fresh basil
-
   * fresh chillies (optional)
-
   * olives (optional)
 
 Equipment:
 
   * Frying pan
-
   * Pot
 
 I recommend chopping your onion, garlic and courgette at the beginning. Add the onion and garlic into a frying pan with some oil. 

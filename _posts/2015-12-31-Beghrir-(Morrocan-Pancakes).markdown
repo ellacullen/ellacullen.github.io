@@ -21,29 +21,19 @@ Calories: 1,303 kcal, 52 per pancake
 Ingredients:  
 
 *	240g semolina
-
 *	120g plain flour
-
 *	1 teaspoon salt
-
 *	1 teaspoon sugar
-
 *	2 teaspoons baking powder
-
 *	1 tablespoon yeast
-
 *	700ml lukewarm water
 
 Equipment:
 
 *	Large mixing bowl
-
 *	Blender
-
 *	Measuring jug
-
 *	Weighing scales
-
 *	Frying pan/skillet
 
 Start by putting your 700ml of lukewarm water (make sure it’s not too hot, or it will kill the yeast) and pour it into your blender. Add your sugar and yeast and leave for 5 minutes.

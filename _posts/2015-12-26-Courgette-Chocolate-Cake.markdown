@@ -21,29 +21,19 @@ Calories: 1,686 kcal, 168 kcal per slice
 Ingredients: 
 
   * 2 small courgettes
-
   * 100g plain flour
-
   * 1 teaspoon baking powder
-
   * 45g caster sugar
-
   * 1 teaspoon vanilla essence
-
   * 100g dark chocolate
-
   * 100g milk chocolate
-
   * white chocolate for topping (optional)
-
   * tablespoon rum (optional)
 
 Equipment:
 
   * Grater
-
   * Bread tin 
-
   * Mixing bowl
 
 Start by grating your courgette. I use the smallest side of the grater, meaning the courgette is very fine. Put your courgette into a large mixing bowl.

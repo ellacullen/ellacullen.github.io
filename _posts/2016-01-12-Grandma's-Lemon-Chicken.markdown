@@ -21,19 +21,14 @@ Calories: 506.4 kcal, 168 kcal per serving
 Ingredients: 
 
   * 3 chicken breasts (500g or so)
-
   * 1 chicken stock cube
-
   * Juice of 1 lemon or 5 tbsps bottled lemon juice
-
   * Flour - 10g needed to coat the chicken, but they're easier to coat if you pour out 50g
-
   * sage - fresh or dried, to taste (I use 2 tbsps)
 
 Equipment:
 
   * Frying pan
-
   * Baking tray
 
 Preheat the oven to 150C fan. Dice or slice your chicken breast into chunks or strips, whichever you prefer. Coat each piece in flour and bung them into the frying pan.

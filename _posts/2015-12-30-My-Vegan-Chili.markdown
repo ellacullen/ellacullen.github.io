@@ -19,27 +19,17 @@ Calories: 566 kcal, 141 kcal per serving
 ![Chili ingredients]({{site.url}}/images/img_03_01.jpg "Ingredients")
 
 Ingredients: 
-
   * 1 onion
-
   * 1 garlic clove 
-
   * 1-4 fresh chilies
-
   * 1 tin kidney beans
-
   * 1 tin chopped tomatoes
-
   * 160g kale
-
   * 90g celery (about three stalks)
-
   * 1/2 packet passata
-
   * Spices: coriander, cajun, paprika
 
 Equipment:
-
   * Pot
 
 Start by chopping up your onion and garlic and put in a pan with a little oil. While they start frying, chop up your fresh chilies. Take care doing this, and use gloves. I used finger chilies. If you’re new to chilies, only use a very small amount – max. 1 chopped chili. Add your chilies to the pot.

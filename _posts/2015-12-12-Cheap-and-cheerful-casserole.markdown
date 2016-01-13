@@ -21,31 +21,20 @@ Calories: 684 kcal, 171 kcal per serving
 Ingredients: 
 
   * 1 onion
-
   * 1 garlic clove 
-
   * 1 chicken or veg stock cube
-
   * 350g potatoes (fresh or tinned)
-
   * 160g carrots (fresh or tinned)
-
   * 90g chopped celery (about three stalks)
-
   * 80g kale
-
   * 150g peas (frozen is usually cheapest)
-
   * 100g chicken (leave out for vegetarians/vegans)
-
   * a few sprigs of mint
 
 Equipment:
 
   * Frying pan
-
   * Pot
-
   * Blender
 
 Start by chopping up your onion, garlic, and celery. Break up your chicken with your fingers and place in a bowl. This is really good for leftover roast chicken, but you could also buy chicken breasts. Pop the onion, garlic, celery and chicken in a frying pan with some oil. If you prefer softer onion, fry it for 5 minutes before adding the other ingredients. 
