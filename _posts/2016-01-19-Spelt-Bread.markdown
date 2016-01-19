@@ -14,7 +14,7 @@ Servings: 18 thin slices
 
 Time: 70-90 minutes
 
-Cost for ingredients: €12.31, or €0.68 per slice
+Cost for ingredients: €12.31 for everything, €1.51 for a loaf, or €0.08 per slice
 
 Calories: Per loaf 1,403 kcal or 1,347 kcal, 78 kcal or 74 kcal per slice
 
