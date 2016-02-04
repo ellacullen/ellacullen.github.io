@@ -52,7 +52,7 @@ Add the dry ingredients gradually, in 5-6 sections, blending after each addition
 
 During this time, get the kids up, shower and dress, contemplate existence, or go back to bed for an extra half an hour. 
 
-Now grab a pan and heat some oil. Use a ladle or a large soon to pour splotches of batter into the hot pan. These pancakes are only cooked on one side.
+Now grab a pan and heat some oil. Use a ladle or a large spoon to pour splotches of batter into the hot pan. These pancakes are only cooked on one side.
 
 ![Picture 6]({{site.url}}/images/img_04_06.jpg "Soon...")
 

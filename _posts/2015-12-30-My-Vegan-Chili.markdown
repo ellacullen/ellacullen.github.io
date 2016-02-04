@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Vegan Chili"
+title:  "My Vegan Chilli"
 excerpt:
 date:   2015-12-30 22:00:11 +0000
 categories: recipes
@@ -44,7 +44,7 @@ Now drain and add your kidney beans, followed by the chopped tomatoes and half a
 
 When the sauce is bubbling, and the kale and cook for a further 10 minutes on a low heat. 
 
-Finally, add a couple more whole chilies, if you are a crazy person like me. Serve with rice or in a big comforting bowl all on its own. I highly recommend adding some cheese, vegan cheese if you can get it!
+Finally, add a couple more whole chillies, if you are a crazy person like me. Serve with rice or in a big comforting bowl all on its own. I highly recommend adding some cheese, vegan cheese if you can get it!
 
 ![Picture 4]({{site.url}}/images/img_03_04.jpg "Finished!")
 
