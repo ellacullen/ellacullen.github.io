@@ -21,8 +21,8 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
-  - jekyll-sitemap
+# gems:
+#   - jekyll-sitemap
 
 kramdown:
   auto_ids: true
