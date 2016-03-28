@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PaElla"
-excerpt:
+excerpt: ""
 date:   2016-03-27 18:00:11 +0000
 categories: recipes
 ---
