@@ -8,18 +8,26 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/ellacullen/Library/Application Support/Sublime Text 3/Packages/User/link.sublime-snippet",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 367,
+				"buffer_size": 640,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_posts/2015-12-26-Courgette-Chocolate-Cake.markdown",
+			"file": "recipes/index.md",
 			"settings":
 			{
-				"buffer_size": 3837,
+				"buffer_size": 567,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2016-03-27-PaElla.markdown",
+			"settings":
+			{
+				"buffer_size": 2944,
 				"line_ending": "Unix"
 			}
 		}
@@ -74,13 +82,15 @@
 	"expanded_folders":
 	[
 		"/Users/ellacullen/Documents/web_dev/ellacullen.github.io",
-		"/Users/ellacullen/Documents/web_dev/ellacullen.github.io/_posts",
-		"/Users/ellacullen/Documents/web_dev/ellacullen.github.io/css"
+		"/Users/ellacullen/Documents/web_dev/ellacullen.github.io/recipes"
 	],
 	"file_history":
 	[
-		"/Users/ellacullen/Documents/web_dev/ellacullen.github.io/_posts/2015-11-12-New-post.markdown",
+		"/Users/ellacullen/Documents/web_dev/ellacullen.github.io/_posts/2016-03-14-Overnight-Oats.mdown",
+		"/Users/ellacullen/Documents/web_dev/ellacullen.github.io/_posts/2016-03-27-PaElla.markdown",
 		"/Users/ellacullen/Documents/web_dev/ellacullen.github.io/_posts/2015-12-26-Courgette-Chocolate-Cake.markdown",
+		"/Users/ellacullen/Library/Application Support/Sublime Text 3/Packages/User/link.sublime-snippet",
+		"/Users/ellacullen/Documents/web_dev/ellacullen.github.io/_posts/2015-11-12-New-post.markdown",
 		"/Users/ellacullen/Documents/web_dev/ellacullen.github.io/temp.txt",
 		"/Users/ellacullen/Documents/web_dev/ellacullen.github.io/_config.yml",
 		"/Users/ellacullen/Documents/web_dev/ellacullen.github.io/_includes/footer.html",
@@ -113,6 +123,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			">",
+			"em",
+			"li>",
 			"source",
 			"img_02_01",
 			"hello",
@@ -144,30 +157,59 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/ellacullen/Library/Application Support/Sublime Text 3/Packages/User/link.sublime-snippet",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 367,
+						"buffer_size": 640,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								94,
-								94
+								531,
+								531
 							]
 						],
 						"settings":
 						{
-							"default_extension": "sublime-snippet",
-							"syntax": "Packages/XML/XML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "recipes/index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								475,
+								475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -177,33 +219,33 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "_posts/2015-12-26-Courgette-Chocolate-Cake.markdown",
+					"buffer": 2,
+					"file": "_posts/2016-03-27-PaElla.markdown",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3837,
+						"buffer_size": 2944,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								837,
-								837
+								43,
+								43
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 441.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -286,7 +328,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 373.0,
+	"side_bar_width": 234.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
